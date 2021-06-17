@@ -45,7 +45,7 @@
     "file-loader": "^6.0.0",
     "html-webpack-plugin": "^4.5.1",
     "jest": "^26.0.1",
-    "jest-emotion": "^10.0.32",
+    "jest-emotion": "^11.0.0",
     "microbundle": "^0.13.0",
     "prettier": "^2.2.1",
     "prop-types": "^15.6.1",

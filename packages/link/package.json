@@ -24,6 +24,6 @@
   "devDependencies": {
     "@mdx-js/react": "^1.6.6",
     "@testing-library/react": "^11.2.3",
-    "jest-emotion": "^10.0.32"
+    "jest-emotion": "^11.0.0"
   }
 }
