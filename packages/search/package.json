@@ -22,7 +22,7 @@
   ],
   "dependencies": {
     "prop-types": "^15.7.2",
-    "use-debounce": "^3.4.0"
+    "use-debounce": "^7.0.0"
   },
   "devDependencies": {
     "@testing-library/react": "^11.2.3"
